@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository will show you a general, simplified overview on a home lab activity i did. This uses Oracle VirtualBox to create a reliable home lab with Active Directory. One of The main goals is to demonstrate practical cybersecurity abilities by establishing a secure Windows networking environment. This lab emphasizes critical aspects of cybersecurity, such as network routing considerations, Active Directory security configurations, and best practices for user management.
+This is a general, simplified overview on a home lab activity i did. It uses Oracle VirtualBox to create a reliable home lab with Active Directory. One of The main goals is to demonstrate practical cybersecurity abilities by establishing a secure Windows networking environment. This lab emphasizes critical aspects of cybersecurity, such as network routing considerations, Active Directory security configurations, and best practices for user management.
 
 ## Lab Highlights
 
