@@ -9,7 +9,7 @@ This is a general, simplified overview on a home lab activity i did. It uses Ora
 - **Languages Used:**
   - **PowerShell:** Automates the creation of 1,000 users with help from a list of randomly generated names.
 
-### Lab Setup Process
+### Lab Setup High-Level Overview
 
 #### 1. Oracle VirtualBox
 - Download and install Oracle VirtualBox for using virtual machines.
